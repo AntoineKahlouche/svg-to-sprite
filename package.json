@@ -1,0 +1,14 @@
+{
+	"name": "svg2sprite",
+	"version": "1.0.0",
+	"description": "",
+	"repository": "",
+	"license": "",
+	"scripts": {
+		"spritezero": "spritezero",
+		"build": "./build.sh"
+	},
+	"dependencies": {
+		"@mapbox/spritezero-cli": "^2.1.0"
+	}
+}
